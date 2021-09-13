@@ -10,4 +10,4 @@
 ## About Me:
 I am Jigyasa Bisht. Currently a 3rd year CSE undergraduate student. My specializations are Artificial Intelligence and Machine Learning.    
          
-Connect with Me : LinkedIn[https://www.linkedin.com/in/jigyasa-bisht-99a6541b9/]
+Connect with Me : https://www.linkedin.com/in/jigyasa-bisht-99a6541b9/[LinkedIn]
